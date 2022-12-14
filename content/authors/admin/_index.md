@@ -22,7 +22,8 @@ organizations:
     url: https://emma-mcgee.github.io
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD candidate in the Department of Epidemiology at the Harvard T.H. Chan School of Public Health, a Research Associate at Brigham and Women’s Hospital, and an Eric and Wendy Schmidt Center PhD Fellow in causal inference and machine learning at the Broad Institute.
+bio: Working on causal inference for cancer survivors.
+
 
 # Interests to show in About widget
 interests:
@@ -32,18 +33,6 @@ interests:
   - Health disparities
   - Teaching
 
-# Education to show in About widget
-# education:
-#   courses:
-#     - course: PhD in Artificial Intelligence
-#       institution: Stanford University
-#       year: 2012
-#     - course: MEng in Artificial Intelligence
-#       institution: Massachusetts Institute of Technology
-#       year: 2009
-#     - course: BSc in Artificial Intelligence
-#       institution: Massachusetts Institute of Technology
-#       year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
