@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Emme McGee
+title: Emma McGee
 
 # Full name (for SEO)
 first_name: Emma 
@@ -82,5 +82,5 @@ email: ''
 highlight_name: true
 ---
 
-Emma McGee is a PhD Candidate at the school of professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a PhD candidate in the Department of Epidemiology at the Harvard T.H. Chan School of Public Health, a Research Associate at Brigham and Women’s Hospital, and an Eric and Wendy Schmidt Center PhD Fellow in causal inference and machine learning at the Broad Institute.  My work currently focuses on applying the target trial framework and contemporary g-methods to high-dimensional, real-world data in order to inform comparative effectiveness decisions for cancer survivors. I am also passionate about teaching epidemiologic and biostatistical methods, including diverse populations in cancer research, and identifying interventions to mitigate cancer health disparities. 
 {style="text-align: justify;"}
