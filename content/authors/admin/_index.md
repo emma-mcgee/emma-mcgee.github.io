@@ -53,7 +53,7 @@ social:
     link: https://scholar.google.com/citations?user=v65iRkIAAAAJ&hl=en&oi=sra
   - icon: github
     icon_pack: fab
-    link: https://github.com/emma-mcgeew
+    link: https://github.com/emma-mcgee
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/emmamcgee/
