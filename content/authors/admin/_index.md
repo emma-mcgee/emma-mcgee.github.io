@@ -8,7 +8,7 @@ last_name: McGee
 
 # Status emoji
 status:
-  icon: 🟢
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -73,7 +73,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
