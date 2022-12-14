@@ -74,5 +74,5 @@ highlight_name: true
 I am a PhD candidate in the Department of Epidemiology at the Harvard T.H. Chan School of Public Health, a Research Associate at Brigham and Women’s Hospital, and an Eric and Wendy Schmidt Center PhD Fellow in causal inference and machine learning at the Broad Institute.  
 {style="text-align: justify;"}
 
-My work currently focuses on applying the target trial framework and contemporary g-methods to high-dimensional, real-world data in order to inform comparative effectiveness decisions for cancer survivors. I am also passionate about teaching epidemiologic and biostatistical methods, including diverse populations in cancer research, and identifying interventions to mitigate cancer health disparities. 
+My work focuses on applying the target trial framework and contemporary g-methods to high-dimensional, real-world data in order to inform comparative effectiveness decisions for cancer survivors. I am also passionate about teaching epidemiologic and biostatistical methods, including diverse populations in cancer research, and identifying interventions to mitigate cancer health disparities. 
 {style="text-align: justify;"}
