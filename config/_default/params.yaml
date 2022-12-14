@@ -108,7 +108,7 @@ extensions:
     enable: true
     ## Icon Pack Extensions
   ai:
-    enable:true
+    enable: true
 
 # Security
 
