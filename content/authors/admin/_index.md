@@ -19,7 +19,7 @@ role: PhD Candidate in Epidemiology
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Harvard T.H. Chan School of Public Health - Harvard University
-    url: https://emma-mcgee.github.io
+    url: https://emmamcgee.com/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Working on causal inference for cancer survivors.
