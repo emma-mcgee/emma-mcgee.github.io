@@ -6,7 +6,7 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
+#   theme_day: minimal
   theme_night: minimal
   font: minimal
   font_size: L
@@ -18,8 +18,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Emma E McGee, PHD Candidate in Epidemiology.'
+    twitter: 'EmmaEMcGee'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -31,11 +31,11 @@ marketing:
 
 header:
   navbar:
-    enable: true
+    enable: false
     align: l
     show_logo: true
     show_language: false
-    show_day_night: true
+    show_day_night: false
     show_search: true
     highlight_active_link: true
 
@@ -105,6 +105,9 @@ extensions:
     branch: main
     local_backend: false
   academicons:
+    enable: true
+    ## Icon Pack Extensions
+  ai:
     enable: true
 
 # Security
