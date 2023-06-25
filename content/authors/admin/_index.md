@@ -72,10 +72,10 @@ highlight_name: true
 ---
 
 I am a PhD candidate in the Department of Epidemiology at the Harvard T.H. Chan School of Public Health, a Research Associate at Brigham and Women’s Hospital, and an Eric and Wendy Schmidt Center PhD Fellow in causal inference and machine learning at the Broad Institute.
-
+{style="text-align: justify;"}
 My work combines the target trial framework with causal g-methods in order to address unanswered questions in cancer research. Specifically, my current research aims to (i) compare the effectiveness of interventions for cancer survivors, particularly those who are underrepresented in randomized trials, (ii) quantify racial differences in molecular biomarkers, and (iii) identify methodological challenges that arise in these areas of research along with appropriate analytic solutions to address them. 
-
+{style="text-align: justify;"}
 Throughout my research, I focus on estimating the effects of dynamic treatment strategies, that is, treatment strategies which are tailored to a patient’s evolving clinical history over time. My work leverages high-dimensional data sources, including healthcare claims, cancer registries, prospective cohorts, biomarkers, and medical images.
-
+{style="text-align: justify;"}
 I am also passionate about teaching advanced epidemiologic and biostatistical methods and mentoring early-career researchers. 
 {style="text-align: justify;"}
