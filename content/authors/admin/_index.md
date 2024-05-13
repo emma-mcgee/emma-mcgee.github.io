@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate in Epidemiology
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -71,11 +71,13 @@ email: ''
 highlight_name: true
 ---
 
-I am a PhD candidate in the Department of Epidemiology at the Harvard T.H. Chan School of Public Health, a Research Associate at Brigham and Women’s Hospital, and an Eric and Wendy Schmidt Center PhD Fellow in causal inference and machine learning at the Broad Institute.
+I am a Postdoctoral Reasercher at the CAUSALab and Zhu Family Center for Global Cancer Prevention at the Harvard T.H. Chan School of Public Health.
 {style="text-align: justify;"}
-My work combines the target trial framework with causal g-methods in order to address unanswered questions in cancer research. Specifically, my current research aims to (i) compare the effectiveness of interventions for cancer survivors, particularly those who are underrepresented in randomized trials, (ii) quantify racial differences in molecular biomarkers, and (iii) identify methodological challenges that arise in these areas of research along with appropriate analytic solutions to address them. 
+My work combines advanced causal inference methods with high-dimensional healthcare data to inform cancer control.
 {style="text-align: justify;"}
-Throughout my research, I focus on estimating the effects of dynamic treatment strategies, that is, treatment strategies which are tailored to a patient’s evolving clinical history over time. My work leverages high-dimensional data sources, including healthcare claims, cancer registries, prospective cohorts, biomarkers, and medical images.
+Specifically, my research aims to (i) compare the effectiveness of personalized cancer strategies, (ii) leverage novel causal and machine learning methods, and (iii) identify methodological challenges that arise in these areas along with appropriate analytic solutions to address them.
+{style="text-align: justify;"}
+Throughout my work, I focus on estimating the effects of dynamic strategies, that is, personalized strategies which are tailored to an individual’s evolving characteristics over time. While these personalized strategies are often of prime interest for clinical decision-making and precision medicine, valid estimation of their effects requires causal g-methods. I combine g-methods with high-dimensional data sources, including electronic health records, healthcare claims, cancer registries, prospective cohorts, molecular biomarkers, and medical images. In addition, my research prioritizes the inclusion of individuals who have been underrepresented in randomized trials of cancer interventions, such as older adults.
 {style="text-align: justify;"}
 I am also passionate about teaching advanced epidemiologic and biostatistical methods and mentoring early-career researchers. 
 {style="text-align: justify;"}
