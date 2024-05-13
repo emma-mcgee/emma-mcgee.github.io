@@ -73,7 +73,7 @@ highlight_name: true
 
 I am a Postdoctoral Reasercher at the CAUSALab and Zhu Family Center for Global Cancer Prevention at the Harvard T.H. Chan School of Public Health.
 {style="text-align: justify;"}
-My work combines advanced causal inference methods with high-dimensional healthcare data to inform cancer control.
+My work combines advanced causal inference methods with high-dimensional healthcare data to inform cancer control and mitigate cancer health disparities.
 {style="text-align: justify;"}
 Specifically, my research aims to (i) compare the effectiveness of personalized cancer strategies, (ii) leverage novel causal and machine learning methods, and (iii) identify methodological challenges that arise in these areas along with appropriate analytic solutions to address them.
 {style="text-align: justify;"}
