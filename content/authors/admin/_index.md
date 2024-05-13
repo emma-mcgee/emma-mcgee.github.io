@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Emma McGee
+title: Emma E. McGee, PhD
 
 # Full name (for SEO)
 first_name: Emma 
