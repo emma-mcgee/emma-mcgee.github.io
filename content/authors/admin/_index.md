@@ -71,7 +71,7 @@ email: ''
 highlight_name: true
 ---
 
-I am a Postdoctoral Reasercher at the CAUSALab and Zhu Family Center for Global Cancer Prevention at the Harvard T.H. Chan School of Public Health.
+I am a Research Fellow at the CAUSALab and Zhu Family Center for Global Cancer Prevention at the Harvard T.H. Chan School of Public Health.
 {style="text-align: justify;"}
 My work combines advanced causal inference methods with high-dimensional healthcare data to inform cancer control and mitigate cancer health disparities.
 {style="text-align: justify;"}
