@@ -23,8 +23,8 @@ defaults:
   run:
     shell: bash
 
+# Build job
 jobs:
-  # Build job
   build:
     runs-on: ubuntu-latest
     env:
@@ -46,7 +46,6 @@ jobs:
 
       - name: Build with Hugo
         env:
-          # For maximum backward compatibility with Hugo modules
           HUGO_ENVIRONMENT: production
           HUGO_ENV: production
         run: |
