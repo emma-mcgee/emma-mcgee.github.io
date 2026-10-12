@@ -73,7 +73,7 @@ highlight_name: true
 
 I am a Research Fellow at the CAUSALab and Zhu Family Center for Global Cancer Prevention at the Harvard T.H. Chan School of Public Health. I also serve as a Big Data Health Scientist at the Veteran’s Health Administration, the nation’s largest integrated healthcare system.
 {style="text-align: justify;"}
-My work combines advanced causal inference methods with high-dimensional healthcare data to advance precision cancer control and methods for causal inference.
+My work combines advanced causal inference methods with high-dimensional healthcare data to advance precision cancer control and causal inference methods.
 {style="text-align: justify;"}
 I have expertise in the design, analysis, and interpretation of target trial emulation studies in oncology and other clinical areas. Throughout my work, I also focus on estimating the effects of dynamic strategies, that is, personalized strategies which are tailored to an individual’s evolving characteristics over time. While these personalized strategies are often of prime interest for clinical decision-making and precision medicine, valid estimation of their effects requires g-methods. I combine g-methods with high-dimensional and multimodal data sources, including electronic health records, healthcare claims, cancer registries, prospective cohorts, molecular biomarkers, and medical images. My work prioritizes the inclusion of individuals who have been underrepresented in randomized trials of cancer interventions, such as older adults.
 {style="text-align: justify;"}
